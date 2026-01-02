@@ -2,6 +2,12 @@
 
 My very first game! A Flappy Bird clone built with Unity as a learning project to understand game development fundamentals.
 
+## Play Now
+
+**[Play Flappin-Bird Online](https://flappin-bird-f4f03.web.app)**
+
+The game is live and playable in your browser! No downloads required.
+
 ## About the Game
 
 Flappin-Bird is a classic endless runner game where you control a bird navigating through pipes. Tap or click to make the bird flap its wings and fly higher, but be careful not to hit the pipes or fall to the ground!
