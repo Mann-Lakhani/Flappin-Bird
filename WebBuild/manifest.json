@@ -1,0 +1,17 @@
+{
+  "name": "Flappin-Bird",
+  "short_name": "Flappin-Bird",
+  "description": "A fun Flappy Bird game built with Unity",
+  "start_url": "/",
+  "display": "fullscreen",
+  "background_color": "#000000",
+  "theme_color": "#87CEEB",
+  "orientation": "any",
+  "icons": [
+    {
+      "src": "TemplateData/favicon.ico",
+      "sizes": "48x48",
+      "type": "image/x-icon"
+    }
+  ]
+}
